@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Unity.Worker.BPJSTK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d62f330be354fcfc0bb206043f50cf6db25f5aa5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f93330300444c0c83d9d61422dafcff48a761a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Unity.Worker.BPJSTK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Unity.Worker.BPJSTK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
